@@ -1,0 +1,3 @@
+# pisptech
+
+This is here for some reason, aparently for learn to thin in technology...
